@@ -29,6 +29,7 @@ This project allows users to manage student records — Add, View, Update and De
 | Version Control  | Git & GitHub |
 
 ## Project Structure
+'''
 studentmanagement/
 ├── pom.xml
 ├── src
@@ -52,7 +53,7 @@ studentmanagement/
 │           ├── update.jsp
 │           └── WEB-INF
 │               └── web.xml
-
+'''
 
 ## Database Schema (students Table)
 
